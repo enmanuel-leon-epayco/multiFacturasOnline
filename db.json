@@ -1,0 +1,33 @@
+{
+    "facturas":[
+        {
+            "id": 1,
+            "doc": "1",
+            "name": "Enmanuel Leon",
+            "valor1": 5000.25,
+            "iva1": 70.41,
+            "valor2": 6000.25,
+            "iva2": 80.41,
+            "valor3": 7000.25,
+            "iva3": 90.41
+        },
+        {
+            "id": 2,
+            "doc": "1",
+            "name": "Enmanuel Leon",
+            "valor1": 5000,
+            "iva1": 70,
+            "valor2": 6000,
+            "iva2": 80,
+            "valor3": 7000,
+            "iva3": 90
+        },
+        {
+            "id": 3,
+            "doc": "2",
+            "name": "Test",
+            "valor1": 5000,
+            "iva1": 70
+        }
+    ]
+  }
